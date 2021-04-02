@@ -34,6 +34,19 @@ so we  comparison, we randomly generate Graphs and send them to Kruskal
      	Hawazin salem Aljehani  1805587
 	Jana Aloraifi           1805259
 	Rehab Nuhayd            1808142
+	
+    ***************************
+ References
+
+
+Priority-Queue based Prim Algorithm :
+https://gist.github.com/thmain/77ec4ec91fa3b0a97a6279bdbbfa955f#file-primalgorithmpqbetter-java
+
+Kruskal Algorithm :
+https://gist.github.com/thmain/d29f274d2769974a8950b5e0436fda92#file-krushkalmst-java
+
+** We joined the codes and added some comments
+   AND creat make_graph ()
 
     
     */
